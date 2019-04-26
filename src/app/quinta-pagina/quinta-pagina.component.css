@@ -1,0 +1,183 @@
+.auto{
+    position: relative;
+    bottom: -750px;
+    right: -10px;
+    top: 55px;
+}
+.fondo{ 
+    margin: auto;
+    display: inline;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+  }
+h1{
+  color:black;
+  text-shadow: 2px 2px 4px #50f80e;
+}
+h3{
+  color:black;
+  text-shadow: 2px 2px 4px #50f80e;
+  text-decoration: underline;
+}
+.body1{
+  position:absolute;
+  top: -70px;
+  right:0px;
+  bottom: 0px;
+  height: 100%;
+  background-size: cover;
+  z-index: -1;
+  }
+.material-icons{
+    position: relative;
+    bottom: 100px;
+    right: 500;
+}
+.container-fluid{
+    position: relative;
+    border-bottom: 10px;
+}
+.img{
+    position: relative;
+    border-radius: 8px;
+}
+.boton{
+        background-color: white;
+        color: black;
+        border: 5px solid #4CAF50; 
+        background-color: rgb(82, 20, 250); 
+         color: white;
+         box-shadow: 0 5px 5px 0 rgba(0,0,0,0.24), 0 5px 5px 0 rgba(0,0,0,0.19);;
+}
+  .pantalla{
+  position:absolute;
+  top: 280px;
+  right:15px;
+  }
+  .pantalla1{
+  position:absolute;
+  top: 280px;
+  right:1000px;
+  left: 15px;
+  }
+.icono1{
+  position:absolute;
+  top: 280px;
+  right:15px;
+  -ms-transform: rotate(20deg); 
+  -webkit-transform: rotate(20deg); 
+  transform: rotate(20deg);
+}
+.icono2{
+  position:absolute;
+  top: 280px;
+  right:1000px;
+  left: 15px;
+  -ms-transform: rotate(20deg); 
+  -webkit-transform: rotate(20deg); 
+  transform: rotate(20deg);
+}
+
+.pantalla3{
+  position:absolute;
+  top: 750px;
+  right:15px;
+  }
+  .pantalla4{
+  position:absolute;
+  top: 750px;
+  right:1000px;
+  left: 15px;
+  }
+.icono3{
+  position:absolute;
+  top: 750px;
+  right:15px;
+  -ms-transform: rotate(20deg); 
+  -webkit-transform: rotate(20deg); 
+  transform: rotate(20deg);
+}
+.icono4{
+  position:absolute;
+  top: 750px;
+  right:1000px;
+  left: 15px;
+  -ms-transform: rotate(20deg); 
+  -webkit-transform: rotate(20deg); 
+  transform: rotate(20deg);
+}
+.material-icons{
+  position:absolute;
+  top: 190px;
+  right:200px;
+  left: 15px;
+}
+.input-group{
+  position: relative;
+  top: 600px
+}
+table {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.borde{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+} 
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  margin:1rem auto;
+  max-width: 600px;
+  z-index: -1;
+}
+
+.example-form{
+  position:absolute;
+  top: 280px;
+  right:100px;
+  left: 400px;
+}
+.mat-form-field {
+  margin-right: 12px;
+}
+
+.boton1{
+  top: 0px;
+}
+
+.example-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.example-container > * {
+  width: 100%;
+}
+
+.example-container form {
+  margin-bottom: 20px;
+}
+
+.example-container form > * {
+  margin: 5px 0;
+}
+
+.example-container .mat-radio-button {
+  margin: 0 12px;
+}
